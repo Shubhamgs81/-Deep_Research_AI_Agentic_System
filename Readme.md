@@ -67,12 +67,14 @@ TAVILY_API_KEY=your_tavily_key
 ---
 
 ### ▶️ Running the App
+```bash
 streamlit run app.py
+```
 
-On Hugging Face Spaces, make sure:
-app.py is the main file
-requirements.txt is present
-Secrets key are added properly
+On Hugging Face Spaces, make sure:   
+app.py is the main file   
+requirements.txt is present   
+Secrets key are added properly   
 
 ---
 

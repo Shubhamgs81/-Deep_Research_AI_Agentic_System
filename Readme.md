@@ -81,4 +81,3 @@ Secrets key are added properly
 ## **Author** 
 👤 Shubham Sontakke  
 🔗 GitHub: https://github.com/Shubhamgs81  
-🔗 Hugging https://huggingface.co/spaces/shubhamgs  

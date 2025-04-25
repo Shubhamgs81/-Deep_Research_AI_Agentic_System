@@ -60,9 +60,9 @@ python-dotenv
 ---
 
 ## 🔐 Environment Variables
-Add the following secrets to Hugging Face (or a .env file if running locally):
-OPENAI_API_KEY=your_openai_key
-TAVILY_API_KEY=your_tavily_key
+Add the following secrets to Hugging Face (or a .env file if running locally):   
+OPENAI_API_KEY=your_openai_key   
+TAVILY_API_KEY=your_tavily_key   
 
 ---
 

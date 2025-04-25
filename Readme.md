@@ -50,12 +50,14 @@ research_agent → answer_drafter_agent → END
 ---
 
 ### 📦 Environment Setup
-streamlit
+```bash
+streamlit   
 tavily
 langgraph
 langchain
 langchain-openai
 python-dotenv
+```
 
 ---
 
